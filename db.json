@@ -1,19 +1,37 @@
 {
-  "posts1": [
-    { "id": 1, "title": "Priyanka 1" },
-    { "id": 2, "title": "Priyanka 2" },
-    { "id": 3, "title": "Priyanka 3" }
-  ],
-  "posts": [
-    { "id": 1, "title": "Priyanka 1" },
-    { "id": 2, "title": "Priyanka 2" },
-    { "id": 3, "title": "Priyanka 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "cityList" : [{
+    "name": "Bangalore",
+    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/shutterstock_bangalore.jpg"
+  },{
+    "name": "Gurgaon",
+    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/gurgaon city.jpg"
+  },{
+    "name": "Pune",
+    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/shutterstock_pune.jpg"
+  },{
+    "name": "Noida",
+    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/noida.jpg"
+  },{
+    "name": "Mumbai",
+    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/mumbai.jpg"
+  },{
+    "name": "Delhi",
+    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/delhi.jpg"
+  },{
+    "name": "Hyderabad",
+    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/hyderabad.jpg"
+  },{
+    "name": "Chennai",
+    "url": " https://images.oyoroomscdn.com/uploads/city_image/small/chennai.jpg"
+  },{
+    "name": "Kolkata",
+    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/kolkata.jpg"
+  },{
+    "name": "Ghaziabad",
+    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/ghaziabad_new.jpg"
+  },{
+    "name": "Greater Noida",
+    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/greater_noida_new.jpg"
   }
+  ]
 }
