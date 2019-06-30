@@ -1,5 +1,5 @@
 {
-  "cityList" : [{
+  "cities" : [{
     "name": "Bangalore",
     "url": "https://images.oyoroomscdn.com/uploads/city_image/small/shutterstock_bangalore.jpg",
     "cityId": 1
