@@ -1,4 +1,9 @@
 {
+  "posts1": [
+    { "id": 1, "title": "Priyanka 1" },
+    { "id": 2, "title": "Priyanka 2" },
+    { "id": 3, "title": "Priyanka 3" }
+  ]
   "posts": [
     { "id": 1, "title": "Priyanka 1" },
     { "id": 2, "title": "Priyanka 2" },
