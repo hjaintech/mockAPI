@@ -1,48 +1,83 @@
 {
-  "cities" : [{
-    "name": "Bangalore",
-    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/shutterstock_bangalore.jpg",
-    "cityId": 1
-  },{
-    "name": "Gurgaon",
-    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/gurgaon city.jpg",
-    "cityId": 1
-  },{
-    "name": "Pune",
-    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/shutterstock_pune.jpg",
-    "cityId": 1
-  },{
-    "name": "Noida",
-    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/noida.jpg",
-    "cityId": 1
-  },{
-    "name": "Mumbai",
-    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/mumbai.jpg",
-    "cityId": 1
-  },{
-    "name": "Delhi",
-    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/delhi.jpg",
-    "cityId": 1
-  },{
-    "name": "Hyderabad",
-    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/hyderabad.jpg",
-    "cityId": 1
-  },{
-    "name": "Chennai",
-    "url": " https://images.oyoroomscdn.com/uploads/city_image/small/chennai.jpg",
-    "cityId": 1
-  },{
-    "name": "Kolkata",
-    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/kolkata.jpg",
-    "cityId": 1
-  },{
-    "name": "Ghaziabad",
-    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/ghaziabad_new.jpg",
-    "cityId": 1
-  },{
-    "name": "Greater Noida",
-    "url": "https://images.oyoroomscdn.com/uploads/city_image/small/greater_noida_new.jpg",
-    "cityId": 1
-  }
-  ]
+   "homepage":{
+      "banners":[
+         {
+            "id":1,
+            "url":"https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,,w_1920,/v1556780415/banner/oovabghxg54esiugrkne.webp",
+            "name":"Banner 1"
+         },
+         {
+            "id":2,
+            "url":"https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,,w_1920,/v1556780471/banner/aahbivubzzplrfd5brwk.webp",
+            "name":"Banner 2"
+         },
+         {
+            "id":3,
+            "url":"https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,,w_1920,/v1556780457/banner/zjpdjgvjmwfh6tdydteh.webp",
+            "name":"Banner 3"
+         },
+         {
+            "id":4,
+            "url":"https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,,w_1920,/v1556780466/banner/wg7sgxppdf51wfyprqtc.webp",
+            "name":"Banner 4"
+         }
+      ],
+      "cities":[
+         {
+            "name":"Bangalore",
+            "url":"https://images.oyoroomscdn.com/uploads/city_image/small/shutterstock_bangalore.jpg",
+            "cityId":1
+         },
+         {
+            "name":"Gurgaon",
+            "url":"https://images.oyoroomscdn.com/uploads/city_image/small/gurgaon city.jpg",
+            "cityId":2
+         },
+         {
+            "name":"Pune",
+            "url":"https://images.oyoroomscdn.com/uploads/city_image/small/shutterstock_pune.jpg",
+            "cityId":3
+         },
+         {
+            "name":"Noida",
+            "url":"https://images.oyoroomscdn.com/uploads/city_image/small/noida.jpg",
+            "cityId":4
+         },
+         {
+            "name":"Mumbai",
+            "url":"https://images.oyoroomscdn.com/uploads/city_image/small/mumbai.jpg",
+            "cityId":5
+         },
+         {
+            "name":"Delhi",
+            "url":"https://images.oyoroomscdn.com/uploads/city_image/small/delhi.jpg",
+            "cityId":6
+         },
+         {
+            "name":"Hyderabad",
+            "url":"https://images.oyoroomscdn.com/uploads/city_image/small/hyderabad.jpg",
+            "cityId":7
+         },
+         {
+            "name":"Chennai",
+            "url":" https://images.oyoroomscdn.com/uploads/city_image/small/chennai.jpg",
+            "cityId":8
+         },
+         {
+            "name":"Kolkata",
+            "url":"https://images.oyoroomscdn.com/uploads/city_image/small/kolkata.jpg",
+            "cityId":9
+         },
+         {
+            "name":"Ghaziabad",
+            "url":"https://images.oyoroomscdn.com/uploads/city_image/small/ghaziabad_new.jpg",
+            "cityId":10
+         },
+         {
+            "name":"Greater Noida",
+            "url":"https://images.oyoroomscdn.com/uploads/city_image/small/greater_noida_new.jpg",
+            "cityId":11
+         }
+      ]
+   }
 }
